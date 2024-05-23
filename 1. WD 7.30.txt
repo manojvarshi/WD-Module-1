@@ -1,0 +1,32 @@
+Inline element                inline html
+
+1. <em>..</em>
+2.<strong>..</strong>
+3.<d>...</d>.
+4.<i>..</i>
+5.<u>..</u>
+6.<s>..</s>
+7.<small>..</small>
+8.<q>..</q>
+9.<dfn>..</dfn>
+10.<adder>..</adder>
+11.<sub>..</sub>
+12.<sup>..</sup>
+13.<mark>..</mark>
+14.<ins>..</ins>
+15.<del>..</del>
+16.<br>
+17<wbr>
+
+<cm>this is text data </cm> 
+
+E=mc 
+E=mc <sup>2<1sup><br>
+H<sub>2<1sub>o<br>
+
+<p> <dfn> desinging <?dfn> is  
+
+
+
+
+h

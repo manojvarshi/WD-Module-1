@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<iframe src="table.html" width="400" height="250" >
+read the <a href="table.html">glossary</a>
+</iframe>
+</html>
